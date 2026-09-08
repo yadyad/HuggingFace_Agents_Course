@@ -1,0 +1,5 @@
+pytz==2026.3.post1
+PyYAML==6.0.3
+Requests==2.34.2
+smolagents==1.26.0
+tools==1.0.35
